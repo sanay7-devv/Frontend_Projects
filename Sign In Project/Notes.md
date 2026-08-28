@@ -1,0 +1,1 @@
+I have to use a container and also use position: relative and then for the childs i have to use position: absolute this is important and also necessary as without it i won't get transitions and other stuff and then overflow to hide also would be difficult so use that hard to understand but will get it for sure
